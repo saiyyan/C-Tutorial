@@ -7,8 +7,7 @@ namespace IntroductionToCsharp
     {
 
         //use params keyword for arrays that are parameters to a function
-        //signficance of params keyword: even if nums is not passed in, the function
-        //will still run
+        //signficance of params keyword: even if nums is not passed in, the function will still run
         //also, if you can list out the parameters as shown below if params keyword is used
         //also only one parameter array can be used in a function
         public static void calculate(  params int[] nums)
